@@ -1,0 +1,5 @@
+# Backup & swap files
+*~
+.swp
+.*.swp
+.*.kate-swp
